@@ -1,0 +1,21 @@
+---- SOFTWARE REQUIREMENTS ----
+Python Version 3.7 was used for the implementation of this project.
+
+An IDE is required to run the Jupyter notebooks. For this project, JetBrains
+DataSpell was used. However, Jupyter notebook can also be used for this purpose.
+
+---- Libraries ----
+Library 				Version 		Installation Command
+Numpy 				1.21.5 		pip install numpy==1.21.5
+Pandas 				1.3.3 		pip install pandas==1.3.3
+Matplotlib 			3.4.3 		pip install matplotlib=3.4.3
+Seaborn 				0.11.2 		pip install seaborn==0.11.2
+SciPy 				1.4.1 		pip install scipy==1.4.1
+TensorFlow 			2.8.0 		pip install tensorflow==2.8.0
+Scikit-Learn 			1.0.2 		pip install -U scikit-learn==1.0.2
+Category Encoders 		2.3.0 		pip install category encoders==2.3.0
+Statsmodels 			0.13.2 		pip install statsmodels==0.13.2
+Patsy 				0.5.2 		pip install patsy==0.5.2
+
+---- NOTE ----
+Other drivers and software may be required. Please see the maintenance manual.
