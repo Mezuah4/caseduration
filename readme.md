@@ -28,14 +28,14 @@ Freedom of Information Disclosure: [Here](https://www.scotland.police.uk/access-
 ## Summary
 
 #### Bivariate Analysis
-![image](https://github.com/Mezuah4/caseduration/assets/43442819/e36d133c-31ff-4db6-80a9-2ac49b79b317)
+![image](https://github.com/Mezuah4/caseduration/assets/43442819/de207e17-7681-4f0a-9fe7-52ae858b1ca0)
 
-![image](https://github.com/Mezuah4/caseduration/assets/43442819/ad7aa956-d977-4862-bf5c-43ba3fc21ec3)
+![image](https://github.com/Mezuah4/caseduration/assets/43442819/22707839-b509-4f14-9572-62d54b4530da)
 
-![image](https://github.com/Mezuah4/caseduration/assets/43442819/d6e461e7-7537-4a74-b94e-7c45741ca784)
+![image](https://github.com/Mezuah4/caseduration/assets/43442819/f535f19a-411c-4b6b-acc8-de8a7f430bb3)
 
 #### Model Performance
 
-![image](https://github.com/Mezuah4/caseduration/assets/43442819/fe6a3296-fb64-4e2b-ad1e-d88eb3813c5a)
+![image](https://github.com/Mezuah4/caseduration/assets/43442819/8f5f13cc-0e14-468b-b3ec-de936abb804c)
 
-![image](https://github.com/Mezuah4/caseduration/assets/43442819/a6a7a192-c995-401a-a325-74a4d28b284d)
+![image](https://github.com/Mezuah4/caseduration/assets/43442819/2d02caf0-72e5-42ca-9980-fa4ccd94ef7c)
